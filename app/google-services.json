@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "85836110426",
+    "project_id": "submarine-a2686",
+    "storage_bucket": "submarine-a2686.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85836110426:android:32dcbbbf327f0bcd67d663",
+        "android_client_info": {
+          "package_name": "com.sadchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85836110426-rmu996gn795fq6ktspmric9tgsujdlu5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sadchat",
+            "certificate_hash": "9ce103421f93813240230aa19963d99d51c31d33"
+          }
+        },
+        {
+          "client_id": "85836110426-o3s2e26nbgnbde6iaejidehfqpv8r31e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOMJXBr0YQGFN7J5Zzt2XKmqkl0XhGWDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85836110426-o3s2e26nbgnbde6iaejidehfqpv8r31e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

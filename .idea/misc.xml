@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SAD Chat/app/src/main/res/drawable/ic_baseline_arrow_downward_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SAD Chat/app/src/main/res/layout/activity_giris_ekrani.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SAD Chat/app/src/main/res/layout/activity_hosgeldin_ekrani_main.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SAD Chat/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SAD Chat/app/src/main/res/layout/activity_telefon_kayit.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SAD Chat/app/src/main/res/layout/fragment_durumlar.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SAD Chat/app/src/main/res/layout/fragment_kisiler.xml" value="0.4" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SAD Chat/app/src/main/res/layout/fragment_sohbetler.xml" value="0.2" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SAD Chat/app/src/main/res/layout/kisiler_satir_tasarimi.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SAD Chat/app/src/main/res/layout/sohbetler_satir_tasarimi.xml" value="0.4" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SAD Chat/app/src/main/res/menu/menu_main.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SADChat/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SADChat/app/src/main/res/layout/activity_giris_ekrani.xml" value="0.264" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SADChat/app/src/main/res/layout/activity_hosgeldin_ekrani_main.xml" value="0.1037037037037037" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SADChat/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SADChat/app/src/main/res/layout/activity_telefon_kayit.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SADChat/app/src/main/res/layout/fragment_durumlar.xml" value="0.4" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SADChat/app/src/main/res/layout/fragment_kisiler.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SADChat/app/src/main/res/layout/fragment_sohbetler.xml" value="0.12110726643598616" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SADChat/app/src/main/res/layout/kisiler_satir_tasarimi.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SADChat/app/src/main/res/layout/sohbetler_satir_tasarimi.xml" value="0.152" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SADChat/app/src/main/res/menu/menu_main.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SADChat/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/SADChat/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

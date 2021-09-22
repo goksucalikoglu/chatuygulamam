@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".yetki.TelefonKayitActivity">
+
+        <LinearLayout
+            android:id="@+id/toolbar"
+            android:padding="15dp"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_marginTop="30dp"
+                android:gravity="center_horizontal"
+                android:layout_marginStart="15dp"
+                android:textColor="@color/anarenk"
+                android:textSize="18sp"
+                android:text="Telefon Numaranızı Giriniz"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"/>
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:src="@drawable/ic_baseline_more_vert_24"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_below="@id/toolbar"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:padding="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:text="Submarine telefonunuza bir doğrulama mesajı gönderecektir.."
+                android:gravity="center_horizontal"
+                android:textColor="@color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:gravity="center_horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/edt_ulkekodu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="+"
+                    android:textSize="16sp"/>
+
+
+                <EditText
+                    android:id="@+id/edt_telefon"
+                    android:gravity="center"
+                    android:maxLength="13"
+                    android:padding="5dp"
+                    android:inputType="phone"
+                    android:maxLines="1"
+                    android:background="@android:color/transparent"
+                    android:layout_width="200dp"
+                    android:hint="Telefon Numaranız"
+                    android:layout_height="wrap_content"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:text="SMS ile gelen kod ile devam edin.."
+                android:textSize="16sp"
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <EditText
+                android:id="@+id/edt_kod"
+                android:gravity="center_horizontal"
+                android:inputType="number"
+                android:maxLength="6"
+                android:maxLines="1"
+                android:layout_marginTop="13dp"
+                android:padding="5dp"
+                android:hint="Doğrulama kodu"
+                android:layout_width="220dp"
+                android:background="@android:color/transparent"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_devam_et"
+            android:text="DEVAM ET"
+            android:layout_alignParentBottom="true"
+            android:background="@color/anarenk"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="35dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </RelativeLayout>
+</layout>
